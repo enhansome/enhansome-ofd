@@ -1,0 +1,16 @@
+name: Enhance Awesome List
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write          # required for the action's default auto_commit
+jobs:
+  enhance:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7   # persist-credentials defaults to true
+      - uses: enhansome/action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          original_repository: wukonggo/awesome-ofd
