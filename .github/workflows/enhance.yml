@@ -1,7 +1,7 @@
 name: Enhance Awesome List
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '6 1 * * *'
   workflow_dispatch:
 permissions:
   contents: write          # required for the action's default auto_commit
