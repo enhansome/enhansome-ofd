@@ -1,0 +1,283 @@
+{
+  "items": [
+    {
+      "description": "OFD（Open Fixed-layout Documents的简称，意为开放版式文件）版式文档是版面呈现效果高度精确固定的电子文件，其呈现与设备无关。与pdf文件相仿，具有格式独立、版面固定、固化呈现等特点。OFD也逐渐开始在电子发票、电子公文、电子证照等等的领域中应用。",
+      "items": [],
+      "title": "OFD文档"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ofdrw",
+          "description": "OFD Reader & Writer 开源的OFD处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能(Java)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-04T03:39:58Z",
+            "owner": "ofdrw",
+            "repo": "ofdrw",
+            "stars": 1840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "easyofd",
+          "description": "Python实现的OFD处理库纯 python的ofd解析与pdf转换(Python)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T06:50:00Z",
+            "owner": "renoyuan",
+            "repo": "easyofd",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ofd.js",
+          "description": "OFD板式文件html渲染方案及组件(JavaScript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-13T03:28:02Z",
+            "owner": "DLTech21",
+            "repo": "ofd.js",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ofdparser",
+          "description": "OFD解析器(Java)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-02-11T03:54:34Z",
+            "owner": "wangyi160",
+            "repo": "ofdparser",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XiaoFeng.Ofd",
+          "description": "OFD 读写处理库(.NET)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-03T07:54:40Z",
+            "owner": "zhuovi",
+            "repo": "XiaoFeng.Ofd",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ofd-go",
+          "description": "Go语言实现的OFD处理库(GO)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-12T02:22:22Z",
+            "owner": "itlabers",
+            "repo": "ofd-go",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ofdparser",
+          "description": "OFD电子发票验签、发票信息提取、保存为图片(Java)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-08-13T15:38:09Z",
+            "owner": "gongdaowen",
+            "repo": "ofdparser",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OfdSharp",
+          "description": "C#实现的OFD处理库 ofd文件读写类库(C#)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-04-26T12:26:03Z",
+            "owner": "swpudp",
+            "repo": "OfdSharp",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ofd-analyze",
+          "description": "OFD 发票解析(Python)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-05-20T21:44:03Z",
+            "owner": "cooker",
+            "repo": "ofd-analyze",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OFDConverter",
+          "description": "A straightforward PDF to OFD 简易的PDF转换为OFD格式文档",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-01T14:55:50Z",
+            "owner": "wukonggo",
+            "repo": "OFDConverter",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "库和SDK"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "转换工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PdfiumViewer",
+          "description": "PdfiumViewer",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-07-28T13:58:51Z",
+            "owner": "pvginkel",
+            "repo": "PdfiumViewer",
+            "stars": 1025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ofd2Pdf",
+          "description": "OFD转PDF工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-13T12:44:42Z",
+            "owner": "taurusxin",
+            "repo": "Ofd2Pdf",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ofdbox",
+          "description": "推荐开源OFD图片转换解决方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-03-26T15:24:42Z",
+            "owner": "jiayao-zhang",
+            "repo": "ofdbox",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spire.Pdf",
+          "description": "free spire.pdf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-13T07:59:11Z",
+            "owner": "SpirePDF",
+            "repo": "FreeSpire.PDF",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ofd2img",
+          "description": "OFD转图片工具(Python OFD发票转为PNG)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-31T02:46:24Z",
+            "owner": "geniusnut",
+            "repo": "ofd2img",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "相关工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ofd.js",
+          "description": "基于JavaScript的OFD在线阅读器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-13T03:28:02Z",
+            "owner": "DLTech21",
+            "repo": "ofd.js",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OfdiumEx：基于cairo库渲染OFDWindows客户端阅读器roy19831015/OfdiumEx . https://github.com/roy19831015/OfdiumEx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-04-14T04:37:22Z",
+            "owner": "roy19831015",
+            "repo": "OfdiumEx",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "阅读器"
+    },
+    {
+      "description": "理解 PDF 中的五种页面边界\nPDF转OFD工具类 Java",
+      "items": [],
+      "title": "文章和教程"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:28:53.198Z",
+    "original_repository": "wukonggo/awesome-ofd",
+    "original_repository_sha": "14fbff8da251eb509ae5b3a8c364b37a335902b1",
+    "enhanced_repository": "enhansome/enhansome-ofd",
+    "enhanced_repository_description": null,
+    "title": "Awesome OFD with stars"
+  }
+}
