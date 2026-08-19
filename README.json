@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "OFD（Open Fixed-layout Documents的简称，意为开放版式文件）版式文档是版面呈现效果高度精确固定的电子文件，其呈现与设备无关。与pdf文件相仿，具有格式独立、版面固定、固化呈现等特点。OFD也逐渐开始在电子发票、电子公文、电子证照等等的领域中应用。",
-      "items": [],
-      "title": "OFD文档"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211330796,
             "language": "Java",
             "last_commit": "2026-08-04T03:39:58Z",
             "owner": "ofdrw",
             "repo": "ofdrw",
-            "stars": 1843
+            "stars": 1846
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 602944344,
             "language": "Python",
             "last_commit": "2026-06-11T06:50:00Z",
             "owner": "renoyuan",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294081564,
             "language": "JavaScript",
             "last_commit": "2024-08-13T03:28:02Z",
             "owner": "DLTech21",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148021107,
             "language": "Java",
             "last_commit": "2022-02-11T03:54:34Z",
             "owner": "wangyi160",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 777550600,
             "language": "C#",
             "last_commit": "2025-06-03T07:54:40Z",
             "owner": "zhuovi",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 531805036,
             "language": "Go",
             "last_commit": "2024-03-12T02:22:22Z",
             "owner": "itlabers",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259823582,
             "language": "Java",
             "last_commit": "2021-08-13T15:38:09Z",
             "owner": "gongdaowen",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277726310,
             "language": "C#",
             "last_commit": "2022-04-26T12:26:03Z",
             "owner": "swpudp",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243198621,
             "language": "Java",
             "last_commit": "2022-05-20T21:44:03Z",
             "owner": "cooker",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 866019538,
             "language": "C#",
             "last_commit": "2024-10-01T14:55:50Z",
             "owner": "wukonggo",
@@ -152,88 +157,95 @@
       "title": "库和SDK"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PdfiumViewer",
+              "description": "PdfiumViewer",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22678092,
+                "language": "C#",
+                "last_commit": "2021-07-28T13:58:51Z",
+                "owner": "pvginkel",
+                "repo": "PdfiumViewer",
+                "stars": 1025
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ofd2Pdf",
+              "description": "OFD转PDF工具",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 521256608,
+                "language": "C#",
+                "last_commit": "2023-10-13T12:44:42Z",
+                "owner": "taurusxin",
+                "repo": "Ofd2Pdf",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ofdbox",
+              "description": "推荐开源OFD图片转换解决方案",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307380766,
+                "language": "Java",
+                "last_commit": "2021-03-26T15:24:42Z",
+                "owner": "jiayao-zhang",
+                "repo": "ofdbox",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spire.Pdf",
+              "description": "free spire.pdf",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92259497,
+                "language": null,
+                "last_commit": "2023-07-13T07:59:11Z",
+                "owner": "SpirePDF",
+                "repo": "FreeSpire.PDF",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ofd2img",
+              "description": "OFD转图片工具(Python OFD发票转为PNG)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294904679,
+                "language": "Python",
+                "last_commit": "2025-12-31T02:46:24Z",
+                "owner": "geniusnut",
+                "repo": "ofd2img",
+                "stars": 32
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "相关工具"
+        }
+      ],
       "title": "转换工具"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PdfiumViewer",
-          "description": "PdfiumViewer",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2021-07-28T13:58:51Z",
-            "owner": "pvginkel",
-            "repo": "PdfiumViewer",
-            "stars": 1025
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ofd2Pdf",
-          "description": "OFD转PDF工具",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-10-13T12:44:42Z",
-            "owner": "taurusxin",
-            "repo": "Ofd2Pdf",
-            "stars": 187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ofdbox",
-          "description": "推荐开源OFD图片转换解决方案",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-03-26T15:24:42Z",
-            "owner": "jiayao-zhang",
-            "repo": "ofdbox",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spire.Pdf",
-          "description": "free spire.pdf",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-07-13T07:59:11Z",
-            "owner": "SpirePDF",
-            "repo": "FreeSpire.PDF",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ofd2img",
-          "description": "OFD转图片工具(Python OFD发票转为PNG)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-31T02:46:24Z",
-            "owner": "geniusnut",
-            "repo": "ofd2img",
-            "stars": 32
-          }
-        }
-      ],
-      "title": "相关工具"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -242,6 +254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294081564,
             "language": "JavaScript",
             "last_commit": "2024-08-13T03:28:02Z",
             "owner": "DLTech21",
@@ -256,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 357730761,
             "language": "C",
             "last_commit": "2021-04-14T04:37:22Z",
             "owner": "roy19831015",
@@ -265,16 +279,12 @@
         }
       ],
       "title": "阅读器"
-    },
-    {
-      "description": "理解 PDF 中的五种页面边界\nPDF转OFD工具类 Java",
-      "items": [],
-      "title": "文章和教程"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:22:11.836Z",
+    "last_updated": "2026-08-19T12:43:58.250Z",
     "original_repository": "wukonggo/awesome-ofd",
+    "original_repository_id": 865702378,
     "original_repository_sha": "14fbff8da251eb509ae5b3a8c364b37a335902b1",
     "enhanced_repository": "enhansome/enhansome-ofd",
     "enhanced_repository_description": null,
