@@ -15,7 +15,7 @@
             "last_commit": "2026-08-04T03:39:58Z",
             "owner": "ofdrw",
             "repo": "ofdrw",
-            "stars": 1851
+            "stars": 1854
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-08-13T03:28:02Z",
             "owner": "DLTech21",
             "repo": "ofd.js",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -259,7 +259,7 @@
             "last_commit": "2024-08-13T03:28:02Z",
             "owner": "DLTech21",
             "repo": "ofd.js",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2021-04-14T04:37:22Z",
             "owner": "roy19831015",
             "repo": "OfdiumEx",
-            "stars": 57
+            "stars": 58
           }
         }
       ],
@@ -282,9 +282,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:37:42.048Z",
-    "original_repository": "wukonggo/awesome-ofd",
-    "original_repository_id": 865702378,
+    "last_updated": "2026-08-27T11:09:21.290Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 865702378,
+      "language": null,
+      "last_commit": "2024-10-01T14:53:46Z",
+      "owner": "wukonggo",
+      "repo": "awesome-ofd",
+      "stars": 63
+    },
     "original_repository_sha": "14fbff8da251eb509ae5b3a8c364b37a335902b1",
     "enhanced_repository": "enhansome/enhansome-ofd",
     "enhanced_repository_description": null,
