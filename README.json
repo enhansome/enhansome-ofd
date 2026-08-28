@@ -16,7 +16,8 @@
             "owner": "ofdrw",
             "repo": "ofdrw",
             "stars": 1854
-          }
+          },
+          "first_seen": "2026-08-28T12:42:28.858Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "renoyuan",
             "repo": "easyofd",
             "stars": 440
-          }
+          },
+          "first_seen": "2026-08-28T12:42:28.858Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2024-08-13T03:28:02Z",
             "owner": "DLTech21",
             "repo": "ofd.js",
-            "stars": 335
-          }
+            "stars": 336
+          },
+          "first_seen": "2026-08-28T12:42:28.858Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "wangyi160",
             "repo": "ofdparser",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T12:42:28.858Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "zhuovi",
             "repo": "XiaoFeng.Ofd",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T12:42:28.858Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "itlabers",
             "repo": "ofd-go",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T12:42:28.858Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "gongdaowen",
             "repo": "ofdparser",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T12:42:28.858Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "swpudp",
             "repo": "OfdSharp",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T12:42:28.858Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "cooker",
             "repo": "ofd-analyze",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T12:42:28.858Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "wukonggo",
             "repo": "OFDConverter",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T12:42:28.858Z"
         }
       ],
       "title": "库和SDK"
@@ -174,7 +184,8 @@
                 "owner": "pvginkel",
                 "repo": "PdfiumViewer",
                 "stars": 1025
-              }
+              },
+              "first_seen": "2026-08-28T12:42:28.858Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "taurusxin",
                 "repo": "Ofd2Pdf",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T12:42:28.858Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "jiayao-zhang",
                 "repo": "ofdbox",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T12:42:28.858Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "SpirePDF",
                 "repo": "FreeSpire.PDF",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T12:42:28.858Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "geniusnut",
                 "repo": "ofd2img",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T12:42:28.858Z"
             }
           ],
           "description": null,
@@ -259,8 +274,9 @@
             "last_commit": "2024-08-13T03:28:02Z",
             "owner": "DLTech21",
             "repo": "ofd.js",
-            "stars": 335
-          }
+            "stars": 336
+          },
+          "first_seen": "2026-08-28T12:42:28.858Z"
         },
         {
           "node_type": "item",
@@ -275,14 +291,15 @@
             "owner": "roy19831015",
             "repo": "OfdiumEx",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T12:42:28.858Z"
         }
       ],
       "title": "阅读器"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:53:06.861Z",
+    "last_updated": "2026-08-28T12:42:28.858Z",
     "original_repository_info": {
       "archived": false,
       "id": 865702378,
