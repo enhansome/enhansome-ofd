@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OFD Reader & Writer 开源的OFD处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能，文档格式遵循《GB/T 33190-2016 电子文件存储与交换格式版式文档》。",
+            "homepage": "https://github.com/ofdrw/ofdrw",
             "id": 211330796,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T03:39:58Z",
+            "open_issues": 45,
             "owner": "ofdrw",
             "repo": "ofdrw",
-            "stars": 1854
+            "stars": 1855,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
         },
@@ -26,12 +31,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "use python parse OFD file:  ofd2img ofd2pdf pdf2ofd img2ofd  ;(纯 python的ofd解析) ",
+            "homepage": null,
             "id": 602944344,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-11T06:50:00Z",
+            "open_issues": 58,
             "owner": "renoyuan",
             "repo": "easyofd",
-            "stars": 440
+            "stars": 440,
+            "topics": [
+              "ofd",
+              "ofd2img",
+              "ofd2pdf",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
         },
@@ -42,12 +57,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OFD板式文件html渲染方案及组件",
+            "homepage": null,
             "id": 294081564,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-13T03:28:02Z",
+            "open_issues": 25,
             "owner": "DLTech21",
             "repo": "ofd.js",
-            "stars": 336
+            "stars": 336,
+            "topics": [
+              "js",
+              "ofd",
+              "ofd2html",
+              "ofd2pdf",
+              "ofd2svg",
+              "pdf2ofd"
+            ]
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
         },
@@ -58,12 +85,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OFD (open fixed layout document) is a Chinese Document Format, just like PDF. It is standardized as GB/T 33190-2016. ofdparser is a parser to parse the format according to the standard.",
+            "homepage": null,
             "id": 148021107,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-02-11T03:54:34Z",
+            "open_issues": 5,
             "owner": "wangyi160",
             "repo": "ofdparser",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
         },
@@ -74,12 +106,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OFD 读写处理库，支持文档的生成、文档编辑、数字签名、文档合并、文档拆分、文档转换至PDF、文档查询等功能。",
+            "homepage": "https://www.eelf.cn",
             "id": 777550600,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-06-03T07:54:40Z",
+            "open_issues": 5,
             "owner": "zhuovi",
             "repo": "XiaoFeng.Ofd",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "ofd",
+              "ofdreader",
+              "xiaofeng"
+            ]
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
         },
@@ -90,12 +131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang  for  Open Fixed-layout Documents   ",
+            "homepage": null,
             "id": 531805036,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-12T02:22:22Z",
+            "open_issues": 0,
             "owner": "itlabers",
             "repo": "ofd-go",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
         },
@@ -106,12 +152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OFD文件解析",
+            "homepage": null,
             "id": 259823582,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-08-13T15:38:09Z",
+            "open_issues": 4,
             "owner": "gongdaowen",
             "repo": "ofdparser",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
         },
@@ -122,12 +173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 277726310,
             "language": "C#",
+            "license": null,
             "last_commit": "2022-04-26T12:26:03Z",
+            "open_issues": 2,
             "owner": "swpudp",
             "repo": "OfdSharp",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
         },
@@ -138,12 +194,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OFD (open fixed layout document) is a Chinese Document Format, just like PDF. It is standardized as GB/T 33190-2016. ofdparser is a parser to parse the format according to the standard.",
+            "homepage": null,
             "id": 243198621,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-05-20T21:44:03Z",
+            "open_issues": 6,
             "owner": "cooker",
             "repo": "ofd-analyze",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "chinese",
+              "invoice",
+              "ofd"
+            ]
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
         },
@@ -154,12 +219,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A straightforward PDF to OFD (Open Fixed-layout Document) conversion.  简易的PDF转换为OFD格式文档",
+            "homepage": null,
             "id": 866019538,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-01T14:55:50Z",
+            "open_issues": 2,
             "owner": "wukonggo",
             "repo": "OFDConverter",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "csharp",
+              "ofd",
+              "pdf"
+            ]
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
         }
@@ -178,12 +252,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PDF viewer based on Google's PDFium.",
+                "homepage": null,
                 "id": 22678092,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-28T13:58:51Z",
+                "open_issues": 70,
                 "owner": "pvginkel",
                 "repo": "PdfiumViewer",
-                "stars": 1025
+                "stars": 1025,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:42:28.858Z"
             },
@@ -194,12 +273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert OFD files to PDF files.",
+                "homepage": null,
                 "id": 521256608,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-10-13T12:44:42Z",
+                "open_issues": 6,
                 "owner": "taurusxin",
                 "repo": "Ofd2Pdf",
-                "stars": 190
+                "stars": 191,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:42:28.858Z"
             },
@@ -210,12 +294,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个简易的ofd解析库，支持OFD转图片",
+                "homepage": null,
                 "id": 307380766,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-26T15:24:42Z",
+                "open_issues": 2,
                 "owner": "jiayao-zhang",
                 "repo": "ofdbox",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "ofd"
+                ]
               },
               "first_seen": "2026-08-28T12:42:28.858Z"
             },
@@ -226,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free Spire.PDF",
+                "homepage": null,
                 "id": 92259497,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-13T07:59:11Z",
+                "open_issues": 13,
                 "owner": "SpirePDF",
                 "repo": "FreeSpire.PDF",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:42:28.858Z"
             },
@@ -242,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OFD发票转为PNG 参考GBT_33190-2016_电子文件存储与交换格式版式文档.pdf.",
+                "homepage": null,
                 "id": 294904679,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-31T02:46:24Z",
+                "open_issues": 6,
                 "owner": "geniusnut",
                 "repo": "ofd2img",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:42:28.858Z"
             }
@@ -269,12 +370,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OFD板式文件html渲染方案及组件",
+            "homepage": null,
             "id": 294081564,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-13T03:28:02Z",
+            "open_issues": 25,
             "owner": "DLTech21",
             "repo": "ofd.js",
-            "stars": 336
+            "stars": 336,
+            "topics": [
+              "js",
+              "ofd",
+              "ofd2html",
+              "ofd2pdf",
+              "ofd2svg",
+              "pdf2ofd"
+            ]
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
         },
@@ -285,12 +398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 357730761,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-14T04:37:22Z",
+            "open_issues": 2,
             "owner": "roy19831015",
             "repo": "OfdiumEx",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
         }
@@ -299,15 +417,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:42:28.858Z",
+    "last_updated": "2026-08-29T05:05:18.870Z",
     "original_repository_info": {
       "archived": false,
+      "description": "精选的中国开放文档格式(OFD)资源列表，包括标准规范、库、SDK、转换工具、阅读器和教程，为开发者和研究者提供全面参考。",
+      "homepage": null,
       "id": 865702378,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2024-10-01T14:53:46Z",
+      "open_issues": 1,
       "owner": "wukonggo",
       "repo": "awesome-ofd",
-      "stars": 63
+      "stars": 63,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ofd",
+        "pdf"
+      ]
     },
     "original_repository_sha": "14fbff8da251eb509ae5b3a8c364b37a335902b1",
     "enhanced_repository": "enhansome/enhansome-ofd",
