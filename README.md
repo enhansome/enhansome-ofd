@@ -33,9 +33,9 @@ OFD标准有一系列技术优势。
 
 ## 库和SDK
 
-* [ofdrw](https://github.com/ofdrw/ofdrw) ⭐ 1,860 | 🐛 45 | 🌐 Java | 📅 2026-08-04 - OFD Reader & Writer 开源的OFD处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能(Java)
-* [easyofd](https://github.com/renoyuan/easyofd) ⭐ 440 | 🐛 58 | 🌐 Python | 📅 2026-06-11 - Python实现的OFD处理库纯 python的ofd解析与pdf转换(Python)
-* [ofd.js](https://github.com/DLTech21/ofd.js) ⭐ 337 | 🐛 25 | 🌐 JavaScript | 📅 2024-08-13 - OFD板式文件html渲染方案及组件(JavaScript)
+* [ofdrw](https://github.com/ofdrw/ofdrw) ⭐ 1,861 | 🐛 45 | 🌐 Java | 📅 2026-08-04 - OFD Reader & Writer 开源的OFD处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能(Java)
+* [easyofd](https://github.com/renoyuan/easyofd) ⭐ 441 | 🐛 58 | 🌐 Python | 📅 2026-06-11 - Python实现的OFD处理库纯 python的ofd解析与pdf转换(Python)
+* [ofd.js](https://github.com/DLTech21/ofd.js) ⭐ 338 | 🐛 25 | 🌐 JavaScript | 📅 2024-08-13 - OFD板式文件html渲染方案及组件(JavaScript)
 * [ofdparser](https://github.com/wangyi160/ofdparser) ⭐ 72 | 🐛 5 | 🌐 Java | 📅 2022-02-11 - OFD解析器(Java)
 * [XiaoFeng.Ofd](https://github.com/zhuovi/XiaoFeng.Ofd) ⭐ 54 | 🐛 5 | 🌐 C# | 📅 2025-06-03 OFD 读写处理库(.NET)
 * [ofd-go](https://github.com/itlabers/ofd-go) ⭐ 33 | 🐛 0 | 🌐 Go | 📅 2024-03-12 - Go语言实现的OFD处理库(GO)
@@ -57,15 +57,15 @@ OFD标准有一系列技术优势。
 
 * [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer) ⚠️ Archived PdfiumViewer
 * [Ofd2Pdf](https://github.com/taurusxin/Ofd2Pdf) ⭐ 190 | 🐛 6 | 🌐 C# | 📅 2023-10-13 - OFD转PDF工具
-* [ofdbox](https://github.com/QAQtutu/ofdbox) ⭐ 68 | 🐛 2 | 🌐 Java | 📅 2021-03-26 - 推荐开源OFD图片转换解决方案
+* [ofdbox](https://github.com/QAQtutu/ofdbox) ⭐ 69 | 🐛 2 | 🌐 Java | 📅 2021-03-26 - 推荐开源OFD图片转换解决方案
 * [Spire.Pdf](https://github.com/SpirePDF/FreeSpire.PDF) ⭐ 41 | 🐛 13 | 📅 2023-07-13 free spire.pdf
 * [ofd2img](https://github.com/geniusnut/ofd2img) ⭐ 32 | 🐛 6 | 🌐 Python | 📅 2025-12-31 - OFD转图片工具(Python OFD发票转为PNG)
 * [pdfium](https://pdfium.googlesource.com/pdfium/) google pdfium
 
 ## 阅读器
 
-* [ofd.js](https://github.com/DLTech21/ofd.js) ⭐ 337 | 🐛 25 | 🌐 JavaScript | 📅 2024-08-13 - 基于JavaScript的OFD在线阅读器
-* **OfdiumEx**：基于cairo库渲染OFDWindows客户端阅读器[roy19831015/OfdiumEx . https://github.com/roy19831015/OfdiumEx](https://github.com/roy19831015/OfdiumEx) ⭐ 58 | 🐛 2 | 🌐 C | 📅 2021-04-14
+* [ofd.js](https://github.com/DLTech21/ofd.js) ⭐ 338 | 🐛 25 | 🌐 JavaScript | 📅 2024-08-13 - 基于JavaScript的OFD在线阅读器
+* **OfdiumEx**：基于cairo库渲染OFDWindows客户端阅读器[roy19831015/OfdiumEx . https://github.com/roy19831015/OfdiumEx](https://github.com/roy19831015/OfdiumEx) ⭐ 59 | 🐛 2 | 🌐 C | 📅 2021-04-14
 * [Foxit Reader](https://www.foxitsoftware.cn/pdf-reader/) - 支持OFD格式的福昕阅读器
 * [WPS Office](https://www.wps.cn/) - 支持OFD格式的WPS Office
 * [数科网维公司 . 数科OFD阅读器 . www.ofd.cn](https://www.ofd.cn/)
@@ -81,4 +81,4 @@ OFD标准有一系列技术优势。
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
