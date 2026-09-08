@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "ofdrw",
             "repo": "ofdrw",
-            "stars": 1861,
+            "stars": 1863,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
@@ -66,7 +66,7 @@
             "open_issues": 25,
             "owner": "DLTech21",
             "repo": "ofd.js",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "js",
               "ofd",
@@ -379,7 +379,7 @@
             "open_issues": 25,
             "owner": "DLTech21",
             "repo": "ofd.js",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "js",
               "ofd",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:00:41.438Z",
+    "last_updated": "2026-09-08T05:54:15.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选的中国开放文档格式(OFD)资源列表，包括标准规范、库、SDK、转换工具、阅读器和教程，为开发者和研究者提供全面参考。",
