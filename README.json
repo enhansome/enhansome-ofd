@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-15T01:30:25Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "ofdrw",
             "repo": "ofdrw",
-            "stars": 1869,
+            "stars": 1871,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
@@ -40,7 +40,7 @@
             "open_issues": 58,
             "owner": "renoyuan",
             "repo": "easyofd",
-            "stars": 440,
+            "stars": 441,
             "topics": [
               "ofd",
               "ofd2img",
@@ -66,7 +66,7 @@
             "open_issues": 25,
             "owner": "DLTech21",
             "repo": "ofd.js",
-            "stars": 340,
+            "stars": 342,
             "topics": [
               "js",
               "ofd",
@@ -94,7 +94,7 @@
             "open_issues": 5,
             "owner": "wangyi160",
             "repo": "ofdparser",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
@@ -115,7 +115,7 @@
             "open_issues": 5,
             "owner": "zhuovi",
             "repo": "XiaoFeng.Ofd",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "ofd",
               "ofdreader",
@@ -140,7 +140,7 @@
             "open_issues": 0,
             "owner": "itlabers",
             "repo": "ofd-go",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
@@ -228,7 +228,7 @@
             "open_issues": 2,
             "owner": "wukonggo",
             "repo": "OFDConverter",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "csharp",
               "ofd",
@@ -282,7 +282,7 @@
                 "open_issues": 6,
                 "owner": "taurusxin",
                 "repo": "Ofd2Pdf",
-                "stars": 195,
+                "stars": 196,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:28.858Z"
@@ -379,7 +379,7 @@
             "open_issues": 25,
             "owner": "DLTech21",
             "repo": "ofd.js",
-            "stars": 340,
+            "stars": 342,
             "topics": [
               "js",
               "ofd",
@@ -407,7 +407,7 @@
             "open_issues": 2,
             "owner": "roy19831015",
             "repo": "OfdiumEx",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T05:56:37.784Z",
+    "last_updated": "2026-09-17T06:05:02.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选的中国开放文档格式(OFD)资源列表，包括标准规范、库、SDK、转换工具、阅读器和教程，为开发者和研究者提供全面参考。",
@@ -429,7 +429,7 @@
       "open_issues": 1,
       "owner": "wukonggo",
       "repo": "awesome-ofd",
-      "stars": 65,
+      "stars": 66,
       "topics": [
         "awesome",
         "awesome-list",
