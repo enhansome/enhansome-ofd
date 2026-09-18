@@ -282,7 +282,7 @@
                 "open_issues": 6,
                 "owner": "taurusxin",
                 "repo": "Ofd2Pdf",
-                "stars": 196,
+                "stars": 197,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:28.858Z"
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:05:02.877Z",
+    "last_updated": "2026-09-18T05:50:50.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选的中国开放文档格式(OFD)资源列表，包括标准规范、库、SDK、转换工具、阅读器和教程，为开发者和研究者提供全面参考。",
