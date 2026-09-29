@@ -343,7 +343,7 @@
                 "id": 294904679,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-12-31T02:46:24Z",
+                "last_commit": "2026-09-29T03:10:20Z",
                 "open_issues": 6,
                 "owner": "geniusnut",
                 "repo": "ofd2img",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T06:44:52.567Z",
+    "last_updated": "2026-09-29T06:49:28.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选的中国开放文档格式(OFD)资源列表，包括标准规范、库、SDK、转换工具、阅读器和教程，为开发者和研究者提供全面参考。",
