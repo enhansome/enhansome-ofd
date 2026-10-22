@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "ofdrw",
             "repo": "ofdrw",
-            "stars": 1883,
+            "stars": 1884,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
@@ -37,7 +37,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-06-11T06:50:00Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "renoyuan",
             "repo": "easyofd",
             "stars": 438,
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T05:58:03.886Z",
+    "last_updated": "2026-10-22T06:03:29.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选的中国开放文档格式(OFD)资源列表，包括标准规范、库、SDK、转换工具、阅读器和教程，为开发者和研究者提供全面参考。",
