@@ -299,7 +299,7 @@
                 "id": 307380766,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2021-03-26T15:24:42Z",
+                "last_commit": "2026-10-22T10:02:07Z",
                 "open_issues": 2,
                 "owner": "jiayao-zhang",
                 "repo": "ofdbox",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:03:29.752Z",
+    "last_updated": "2026-10-23T05:58:59.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选的中国开放文档格式(OFD)资源列表，包括标准规范、库、SDK、转换工具、阅读器和教程，为开发者和研究者提供全面参考。",
