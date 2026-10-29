@@ -37,7 +37,7 @@ OFD标准有一系列技术优势。
 * [easyofd](https://github.com/renoyuan/easyofd) ⭐ 439 | 🐛 59 | 🌐 Python | 📅 2026-06-11 - Python实现的OFD处理库纯 python的ofd解析与pdf转换(Python)
 * [ofd.js](https://github.com/DLTech21/ofd.js) ⭐ 344 | 🐛 25 | 🌐 JavaScript | 📅 2024-08-13 - OFD板式文件html渲染方案及组件(JavaScript)
 * [ofdparser](https://github.com/wangyi160/ofdparser) ⭐ 73 | 🐛 5 | 🌐 Java | 📅 2022-02-11 - OFD解析器(Java)
-* [XiaoFeng.Ofd](https://github.com/zhuovi/XiaoFeng.Ofd) ⭐ 57 | 🐛 5 | 🌐 C# | 📅 2025-06-03 OFD 读写处理库(.NET)
+* [XiaoFeng.Ofd](https://github.com/zhuovi/XiaoFeng.Ofd) ⭐ 57 | 🐛 6 | 🌐 C# | 📅 2025-06-03 OFD 读写处理库(.NET)
 * [ofd-go](https://github.com/itlabers/ofd-go) ⭐ 34 | 🐛 0 | 🌐 Go | 📅 2024-03-12 - Go语言实现的OFD处理库(GO)
 * [ofdparser](https://github.com/gongdaowen/ofdparser) ⭐ 30 | 🐛 4 | 🌐 Java | 📅 2021-08-13 - OFD电子发票验签、发票信息提取、保存为图片(Java)
 * [OfdSharp](https://github.com/swpudp/OfdSharp) ⭐ 27 | 🐛 2 | 🌐 C# | 📅 2022-04-26 - C#实现的OFD处理库 ofd文件读写类库(C#)
@@ -81,4 +81,4 @@ OFD标准有一系列技术优势。
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
