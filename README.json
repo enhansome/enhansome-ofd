@@ -15,11 +15,11 @@
             "id": 211330796,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-24T14:35:57Z",
+            "last_commit": "2026-11-01T11:28:20Z",
             "open_issues": 43,
             "owner": "ofdrw",
             "repo": "ofdrw",
-            "stars": 1890,
+            "stars": 1891,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
@@ -282,7 +282,7 @@
                 "open_issues": 6,
                 "owner": "taurusxin",
                 "repo": "Ofd2Pdf",
-                "stars": 201,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:28.858Z"
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T07:26:53.890Z",
+    "last_updated": "2026-11-02T07:36:46.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选的中国开放文档格式(OFD)资源列表，包括标准规范、库、SDK、转换工具、阅读器和教程，为开发者和研究者提供全面参考。",
