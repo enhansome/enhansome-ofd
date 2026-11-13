@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "ofdrw",
             "repo": "ofdrw",
-            "stars": 1898,
+            "stars": 1900,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:28.858Z"
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T08:12:54.665Z",
+    "last_updated": "2026-11-13T07:51:19.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选的中国开放文档格式(OFD)资源列表，包括标准规范、库、SDK、转换工具、阅读器和教程，为开发者和研究者提供全面参考。",
